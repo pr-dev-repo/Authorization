@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>README</title>
+
 </head>
 <body>
   <h1>ASP .NET Authorization (OPEN ID CONNECT &amp; SAML 2.0)</h1>
