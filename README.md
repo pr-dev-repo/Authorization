@@ -31,7 +31,7 @@
   </ol>
   <h2>Usage</h2>
   <p>
-    Run the desired project (OpenID Connect or SAML 2.0) and use the interface to perform user authentication.
+    Run the desired project (OpenID Connect or SAML 2.0) and use the interface to perform user authentication. I am using Okta as a Secuiry Identity, So do change the web.config items accordingly in regards to your provider.
   </p>
   <h2>Contributing</h2>
   <p>
