@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7ojM6B/5JxjUgkpLZDoCKV+L4vfut1ZwMQA1WNkqYH0=",
+  "Source": "AuthenticationBearerAPI",
+  "BasePath": "_content/AuthenticationBearerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
